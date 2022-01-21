@@ -18,5 +18,5 @@
 });*/
 
 $router->get('/', function () use ($router) {
-    return view('home');
+    return view('home', ['judul' => 'BUMDES | Badan Usaha Milik Desa']);
 });
