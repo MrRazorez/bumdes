@@ -20,3 +20,7 @@
 $router->get('/', function () use ($router) {
     return view('home', ['judul' => 'BUMDES | Badan Usaha Milik Desa']);
 });
+
+$router->get('/warung', 'WarungController@index');
+$router->get('/fotokopi', 'FotokopiController@index');
+$router->get('/ikan', 'IkanController@index');

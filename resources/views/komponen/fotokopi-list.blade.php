@@ -2,7 +2,7 @@
     <div class="ui items">
         <div class="item">
             <div class="ui small image">
-                <img src="fotokopi_proto.jpg">
+                <img src="/fix/fotokopi_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Arrowhead Valley Camp</div>
@@ -17,7 +17,7 @@
             </div>
             <div class="item">
             <div class="ui small image">
-                <img src="fotokopi_proto.jpg">
+                <img src="/fix/fotokopi_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Buck's Homebrew Stayaway</div>
@@ -32,7 +32,7 @@
             </div>
             <div class="item">
             <div class="ui small image">
-                <img src="fotokopi_proto.jpg">
+                <img src="/fix/fotokopi_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Astrology Camp</div>

@@ -1,5 +1,5 @@
 <div class="ui pointing menu">
-    <a href="index.html" class="item">
+    <a href="/" class="item">
       Home
     </a>
     <a class="item">

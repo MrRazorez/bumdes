@@ -2,7 +2,7 @@
     <div class="ui items">
         <div class="item">
             <div class="ui small image">
-                <img src="ikan_proto.jpg">
+                <img src="/fix/ikan_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Arrowhead Valley Camp</div>
@@ -17,7 +17,7 @@
             </div>
             <div class="item">
             <div class="ui small image">
-                <img src="ikan_proto.jpg">
+                <img src="/fix/ikan_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Buck's Homebrew Stayaway</div>
@@ -32,7 +32,7 @@
             </div>
             <div class="item">
             <div class="ui small image">
-                <img src="ikan_proto.jpg">
+                <img src="/fix/ikan_proto.jpg">
             </div>
             <div class="content">
                 <div class="header">Astrology Camp</div>
