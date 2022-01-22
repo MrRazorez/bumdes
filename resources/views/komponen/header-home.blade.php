@@ -12,7 +12,7 @@
                 <b class="ui tiny header">
                     Jl. Desa Kota Jawa <br>
                     Kec. Way Khilau, Kab.Pesawaran <br>
-                    Provinsi Lampung (Kode Pos) <br>
+                    Provinsi Lampung (35368) <br>
                 </b>
             </div>
             <div class="eight wide column">
