@@ -1,7 +1,9 @@
 <div class="header">
     <div class="kanan">
         <div class="ui tiny rounded image">
-            <img src="/fix/LOGO.png" alt="">
+            <a href="/">
+                <img src="/fix/LOGO.png" alt="">
+            </a>
         </div>
     </div>
     <div class="kiri">
