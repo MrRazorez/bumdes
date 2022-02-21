@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="/fix/semantic/custom-header.css">
     <link rel="stylesheet" href="/fix/semantic/custom-menu.css">
     <link rel="stylesheet" href="/fix/semantic/custom-item.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 </head>
 <body>
     @include('komponen.header-home')
